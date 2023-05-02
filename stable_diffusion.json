@@ -1,0 +1,8 @@
+{
+  "device_type": "cuda",
+  "low_v_ram": false,
+  "num_images_per_prompt": 3,
+  "num_inference_step": 125,
+  "current_item": null,
+  "queue": []
+}

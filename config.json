@@ -1,0 +1,14 @@
+{
+  "file_root": {
+    "stable_diffusion": "stable-diffusion-v1-5",
+    "speech_recognition": "vosk-model-en-us-0.22",
+
+    "data": "data",
+    "output": "data/output",
+    "game_play": "data/game-play-material",
+    "background_audio": "data/background-audio",
+    "laugh_audio": "data/laugh-audio",
+
+    "jokes_youtube_short": "data/output/jokes-youtube-short"
+  }
+}
